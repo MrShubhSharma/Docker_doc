@@ -1,0 +1,9 @@
+to check we can eun in terminal
+  docker
+for version check 
+  docker -v
+
+docker run -it Ubuntu 
+in the above command 
+ubuntu : opersting system
+it : interactive tly
