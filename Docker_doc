@@ -6,4 +6,4 @@ for version check
 docker run -it Ubuntu 
 in the above command 
 ubuntu : opersting system
-it : interactive tly
+it : interactivetly
